@@ -18,9 +18,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [1603-running-sum-of-1d-array](https://github.com/yhc509/LeetHub/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/yhc509/LeetHub/tree/master/1791-richest-customer-wealth) |
 ## Matrix
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/yhc509/LeetHub/tree/master/1791-richest-customer-wealth) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/yhc509/LeetHub/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
