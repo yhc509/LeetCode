@@ -15,4 +15,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/yhc509/LeetHub/tree/master/0412-fizz-buzz) |
+## Array
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/yhc509/LeetHub/tree/master/1791-richest-customer-wealth) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/yhc509/LeetHub/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
