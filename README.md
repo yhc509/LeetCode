@@ -11,10 +11,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/yhc509/LeetHub/tree/master/0412-fizz-buzz) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/yhc509/LeetHub/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/yhc509/LeetHub/tree/master/0412-fizz-buzz) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/yhc509/LeetHub/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Array
 |  |
 | ------- |
@@ -28,4 +30,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/yhc509/LeetHub/tree/master/1603-running-sum-of-1d-array) |
+## Stack
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/yhc509/LeetHub/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
