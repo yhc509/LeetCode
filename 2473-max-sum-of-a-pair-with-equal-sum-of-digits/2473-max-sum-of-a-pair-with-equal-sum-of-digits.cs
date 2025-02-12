@@ -17,7 +17,7 @@ public class Solution {
         
         for(int i = 0; i < nums.Length; i++) {
             var digitSum = SumOfDigit(nums[i]);
-            Console.WriteLine(nums[i] + "->" + digitSum);
+            //Console.WriteLine(nums[i] + "->" + digitSum);
             if(dict.ContainsKey(digitSum) == false) {
                 var l = new List<int>();
                 dict.Add(digitSum, l);
@@ -33,7 +33,7 @@ public class Solution {
         foreach(var k in dict) {
             if(k.Value.Count < 2) continue;
             int sum = k.Value.Sum();
-            Console.WriteLine($"{k.Key}, {sum}");
+            //Console.WriteLine($"{k.Key}, {sum}");
             if(result <= sum) {
                 result = sum;
             }
