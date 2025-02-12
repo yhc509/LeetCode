@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/yhc509/LeetHub/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/yhc509/LeetHub/tree/master/1791-richest-customer-wealth) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yhc509/LeetHub/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -39,4 +40,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yhc509/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Hash Table
+|  |
+| ------- |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yhc509/LeetHub/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+## Sorting
+|  |
+| ------- |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yhc509/LeetHub/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yhc509/LeetHub/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 <!---LeetCode Topics End-->
