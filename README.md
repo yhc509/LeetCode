@@ -18,12 +18,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0412-fizz-buzz](https://github.com/yhc509/LeetHub/tree/master/0412-fizz-buzz) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/yhc509/LeetHub/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/yhc509/LeetHub/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Array
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/yhc509/LeetHub/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/yhc509/LeetHub/tree/master/1791-richest-customer-wealth) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yhc509/LeetHub/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/yhc509/LeetHub/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -52,4 +54,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yhc509/LeetHub/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/yhc509/LeetHub/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 <!---LeetCode Topics End-->
