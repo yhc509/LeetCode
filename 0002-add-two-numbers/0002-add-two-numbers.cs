@@ -24,8 +24,6 @@ public class Solution {
 
             r_p.val = (x1 + x2 + add) % 10;
 
-            Console.WriteLine($"{r_p.val}");
-
             if(x1 + x2 + add >= 10) add = 1;
             else add = 0;
 
@@ -39,7 +37,7 @@ public class Solution {
                 }
                 break;
             }
-            Console.WriteLine($"next");
+            
             if(l1_p != null) l1_p = l1_p.next;
             if(l2_p != null) l2_p = l2_p.next;
             var nextResult = new ListNode();
