@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/yhc509/LeetHub/tree/master/0002-add-two-numbers) |
 | [0412-fizz-buzz](https://github.com/yhc509/LeetHub/tree/master/0412-fizz-buzz) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yhc509/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/yhc509/LeetHub/tree/master/1477-product-of-the-last-k-numbers) |
@@ -68,4 +69,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/yhc509/LeetHub/tree/master/1477-product-of-the-last-k-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/yhc509/LeetHub/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/yhc509/LeetHub/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
