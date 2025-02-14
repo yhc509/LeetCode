@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0412-fizz-buzz](https://github.com/yhc509/LeetHub/tree/master/0412-fizz-buzz) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yhc509/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1477-product-of-the-last-k-numbers](https://github.com/yhc509/LeetHub/tree/master/1477-product-of-the-last-k-numbers) |
 ## String
 |  |
 | ------- |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yhc509/LeetHub/tree/master/0001-two-sum) |
+| [1477-product-of-the-last-k-numbers](https://github.com/yhc509/LeetHub/tree/master/1477-product-of-the-last-k-numbers) |
 | [1603-running-sum-of-1d-array](https://github.com/yhc509/LeetHub/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/yhc509/LeetHub/tree/master/1791-richest-customer-wealth) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yhc509/LeetHub/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -34,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/yhc509/LeetHub/tree/master/1477-product-of-the-last-k-numbers) |
 | [1603-running-sum-of-1d-array](https://github.com/yhc509/LeetHub/tree/master/1603-running-sum-of-1d-array) |
 ## Stack
 |  |
@@ -57,4 +60,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yhc509/LeetHub/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/yhc509/LeetHub/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+## Design
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/yhc509/LeetHub/tree/master/1477-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/yhc509/LeetHub/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
