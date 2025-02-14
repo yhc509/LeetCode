@@ -77,4 +77,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/yhc509/LeetHub/tree/master/0002-add-two-numbers) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/yhc509/LeetHub/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
